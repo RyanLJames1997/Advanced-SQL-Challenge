@@ -2,7 +2,7 @@
 
 **Module 10 Challenge: UWA/edx Data Analytics Bootcamp**
 
-Github repository at: [https://github.com/RyanLJames1997/Advanced-SQL-Challenge.git](https://github.com/RyanLJames1997/Advanced-SQL-Challenge/blob/main/Starter_Code/climate_starter.ipynb))
+Github repository at: [https://github.com/RyanLJames1997/Advanced-SQL-Challenge.git](https://github.com/RyanLJames1997/Advanced-SQL-Challenge/blob/main/Starter_Code/climate_starter.ipynb)
 
 ## Introduction
 
